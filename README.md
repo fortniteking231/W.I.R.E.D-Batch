@@ -17,3 +17,10 @@ D- Disruption
 - **Shutdown**: Shuts down or restarts the device.
 - **Cls**: Clears the command prompt.
 - **Exit**: Closes the command prompt.
+
+## Credits
+- **Fortniteking231**: Wrote The Code
+- **Chatgpt**: Idea's
+
+## Bonus Credits
+- **(YT)ebolaman_**: Inspired By Him (https://www.youtube.com/@ebolaman_)
