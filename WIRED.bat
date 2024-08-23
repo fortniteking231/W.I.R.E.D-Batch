@@ -6,7 +6,7 @@ mode CON: COLS=125 LINES=40
 title W.I.R.E.D 
 
 REM LOGO
-echo VERSION: BETA
+echo VERSION: r1.0
 echo By Fortniteking231 GITHUB
 echo "$$\      $$\     $$$$$$\     $$$$$$$\      $$$$$$$$\     $$$$$$$\  "
 echo "$$ | $\  $$ |    \_$$  _|    $$  __$$\     $$  _____|    $$  __$$\ "
