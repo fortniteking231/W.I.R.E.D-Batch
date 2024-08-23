@@ -1,9 +1,9 @@
-#W.I.R.E.D Command-Line Tool
-#W- Windows 
-#I- Intrusion
-#R- Reconnaissance
-#E- Exploitation
-#D- Disruption
+##W.I.R.E.D Is A Window's Command-Line Tool
+*W- Windows* 
+*I- Intrusion*
+*R- Reconnaissance*
+*E- Exploitation*
+*D- Disruption*
 
 ## Features
 - **NetScan**: Listens for outgoing IP connections.
