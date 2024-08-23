@@ -1,4 +1,4 @@
-##W.I.R.E.D Is A Window's Command-Line Tool
+## W.I.R.E.D Is A Window's Command-Line Tool
 *W- Windows* 
 *I- Intrusion*
 *R- Reconnaissance*
