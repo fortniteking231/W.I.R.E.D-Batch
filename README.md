@@ -23,4 +23,4 @@ D- Disruption
 - **Chatgpt**: Idea's
 
 ## Bonus Credits
-- **(YT)ebolaman_**: Inspired By Him (https://www.youtube.com/@ebolaman_)
+- **(YT)ebolaman_**: Inspired By Him ("https://www.youtube.com/@ebolaman_")
