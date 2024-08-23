@@ -20,7 +20,7 @@ D- Disruption
 
 ## Credits
 - **Fortniteking231**: Wrote The Code
-- **Chatgpt**: Idea's
+- **Chatgpt**: Idea's ( I SWEAR ONLY IDEAS )
 
 ## Bonus Credits
 - **(YT)ebolaman_**: Inspired By Him -- (https://shorturl.at/itQLF)
