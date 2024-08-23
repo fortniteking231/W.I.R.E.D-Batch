@@ -1,3 +1,5 @@
+## !!!WARNING SHITTY CODE AHEAD!!!
+
 ## W.I.R.E.D Is A Window's Command-Line Tool
 - *W- Windows* 
 - *I- Intrusion*
