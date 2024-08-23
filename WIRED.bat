@@ -52,7 +52,6 @@ if /I "%USER_INPUT%" equ "help" (
 	echo RAMbomb -- This Opens Many Notepad Windows, Overwhelming Your System Resources
 	echo ERROR -- IF A COMMAND IS NOT WORKING USE THIS
 	echo Flood -- Flood's A Directory With Randomly Generated Folder's
-	echo TaskKill -- End Any Task Like Task Manager
 	echo Shutdown -- Shutdown/Reset This Device
     echo Cls -- Clear W.I.R.E.D Command Prompt
     echo Exit -- Close W.I.R.E.D Command Prompt
